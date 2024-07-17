@@ -1,1 +1,1 @@
-# qr-from-url (run on console for now)
+# qr-from-url (basic functioning, on your local machine editor using node js)
